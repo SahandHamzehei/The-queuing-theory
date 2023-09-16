@@ -19,5 +19,7 @@ If you use or refer to this research, please cite:
 O. Akbarzadeh, S. Hamzehei, A. Amer, N. Fasihihour and M. Karami, "Analyzing the Network System Performance Based on the Queuing Theory Concept," 2022 International Engineering Conference on Electrical, Energy, and Artificial Intelligence (EICEEAI), Zarqa, Jordan, 2022, pp. 1-6, doi: 10.1109/EICEEAI56378.2022.10050495.
 
 
+
 ## Publisher
-This research is published by [IEEE](https://ieeexplore.ieee.org/).
+This research is presented at the [2022 International Engineering Conference on Electrical, Energy, and Artificial Intelligence (EICEEAI)](https://ieeexplore.ieee.org/xpl/conhome/10050452/proceed
+
