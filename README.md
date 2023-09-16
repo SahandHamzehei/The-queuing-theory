@@ -21,6 +21,6 @@ O. Akbarzadeh, S. Hamzehei, A. Amer, N. Fasihihour and M. Karami, "Analyzing the
 
 
 ## Publisher
-This research is presented at the [2022 International Engineering Conference on Electrical, Energy, and Artificial Intelligence (EICEEAI)](https://ieeexplore.ieee.org/xpl/conhome/10050452/proceeding).
+This research is presented at the 2022 International Engineering Conference on Electrical, Energy, and Artificial Intelligence (EICEEAI)
 
 
